@@ -3,7 +3,7 @@
 ## PROJECT #2 - Deploy a high-availability web app using CloudFormation
 
 
-![alt text](https://github.com/pivarnikjan/aws-nanodegree/project-2/blob/master/diagram.png)
+![alt text](https://github.com/pivarnikjan/aws-nanodegree/tree/master/project-2/diagram.png)
 
 ### Script for provisioning server:
 
