@@ -70,3 +70,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 .idea/
 /project-3/aws/jenkins.pem
+/project-3/aws/pipeline.pem
+/project-3/pipeline.pem
